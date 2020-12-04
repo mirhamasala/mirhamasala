@@ -4,7 +4,7 @@ I'm a frontend developer who likes to dabble in the deep, dark back. I'm oddly i
 
 In my free time, I work on [Neo's Tree](https://www.neostree.com). And I also [write](https://www.mirhamasala.com).
 
-🥞 Stack: Vue.js & Rails
+🥞 Stack: Vue.js, Rails & Tailwind
 
 👯 Collabs: I’m always up for a pair programming session, so [reach out](https://www.mirhamasala.com/contact) if that sounds fun.
 
