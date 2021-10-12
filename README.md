@@ -6,6 +6,6 @@ In my free time, I work on [Neo's Tree](https://www.neostree.com), [Slow Retreat
 
 🥞 Current Stack: React, Next.js + Tailwind
 
-👯 Collabs: I’m always up for a pair programming session, so [reach out](https://www.mirhamasala.com/contact) if that sounds fun.
+👯 Collabs: I’m always up for a pairing session, so [reach out](https://www.mirhamasala.com/contact) if that sounds fun.
 
 ⚡ Fun fact: I spent five years [trying out 12 different lifestyles](https://www.thespinoffproject.com).
